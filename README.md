@@ -1,6 +1,6 @@
-# FullStack Social Media App
+# Sociopedia - Full-Stack Social Media App
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+Build a complete Full-Stack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
 
 
