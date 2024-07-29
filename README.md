@@ -1,7 +1,3 @@
-Here’s a complete README template for your **FullStack Social Media App - Sociopedia**. Feel free to adjust any details as needed.
-
----
-
 # FullStack Social Media App - Sociopedia
 
 **Sociopedia** is a full-stack, responsive social media application built with the MERN stack. This project demonstrates the development of a feature-rich social media platform with user authentication, interactive features such as likes, and a dark mode option.
@@ -115,7 +111,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Material-UI](https://mui.com/) for the UI components.
 - [MongoDB](https://www.mongodb.com/) for the database management.
 - [Express.js](https://expressjs.com/) and [Node.js](https://nodejs.org/) for backend development.
-
----
-
-Feel free to replace placeholders like `your-username` and `your_mongodb_connection_string` with actual values. Adjust any other sections as needed based on your project's specific details and features.
